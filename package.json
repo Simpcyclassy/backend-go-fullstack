@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Simpcyclassy/backend/issues"
   },
-  "homepage": "https://github.com/Simpcyclassy/backend#readme"
+  "homepage": "https://github.com/Simpcyclassy/backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
