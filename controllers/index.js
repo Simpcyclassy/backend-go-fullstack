@@ -1,4 +1,4 @@
-const Thing = require('../models/schema');
+const Thing = require('../models/thingSchema');
 
 exports.createThing = (req, res, next) => {
   const thing = new Thing({
